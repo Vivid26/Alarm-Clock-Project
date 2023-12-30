@@ -12,13 +12,12 @@ No Javascript library is used.
 ## Set Alarm 
 - User can set the alarm by putting the value of Hour Minute Second and Meridiem.
 - User can't enter Hours more than 12 as it's a 12 hour based clock.
-- If you do so, you will see a popup.
+  
 
 ## Functionality
 - User can set alarm after putting the values and clicking on the Set Alarm button.
 - User can delete the alarm.
-- When the alarm meets the live time, status color changes to red and a popup will arise.
-- Audio will play, whenever the user Set Alarm, Delete Alarm and when Alarm time meets the live time.
+- Audio will play, whenever Alarm time meets the live time.
 
 ## Tools Used
 <img align="left" src="https://user-images.githubusercontent.com/18380165/224329335-3cdf989b-bdce-41e6-82dc-7d4c50d5f283.png" width="100" height="100">
